@@ -19,7 +19,7 @@
 
 // ================= WIFI =================
 const char* ssid = "username_wifi";
-const char* password = "H@password_wifi";
+const char* password = "password_wifi";
 const char* serverUrl = "http://IP_Address:8000/api/sensor";
 
 // ================= OBJECT =================
