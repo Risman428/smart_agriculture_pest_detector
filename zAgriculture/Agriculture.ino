@@ -18,9 +18,9 @@
 #define ECHO_PIN   D3   // GPIO0 (INPUT ONLY + PULLUP)
 
 // ================= WIFI =================
-const char* ssid = "HANIF";
-const char* password = "H@n1f16_";
-const char* serverUrl = "http://192.168.1.3:8000/api/sensor";
+const char* ssid = "username_wifi";
+const char* password = "H@password_wifi";
+const char* serverUrl = "http://IP_Address:8000/api/sensor";
 
 // ================= OBJECT =================
 Servo myServo;
